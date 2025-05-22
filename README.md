@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sneha-das1&label=Profile%20views&color=0e75b6&style=flat" alt="sneha-das1" /> </p>
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m currently working on **my web development projects**
 
 - 🌱 I’m currently learning **Data structure and Algorithms**
 
