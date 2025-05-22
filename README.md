@@ -1,7 +1,11 @@
-
 ![logo](https://github.com/Sneha-Das1/Sneha-Das1/blob/main/githubimage.jpg)
 <h1 align="center">Hi 👋, I'm Sneha</h1>
 <h3 align="center">A passionate developer</h3>
+
+- 🌐 Portfolio Website: [Live](https://portfolio-website-sneha.netlify.app/)
+- 🔭 I’m currently working on **my web development projects**
+- 🌱 I’m currently learning **Data structure and Algorithms**
+- ⚡ Fun fact **I love cats 🐈 and love cooking .I am from Nepal studying in India**
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
