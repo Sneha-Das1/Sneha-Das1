@@ -1,6 +1,6 @@
 ![logo](https://github.com/Sneha-Das1/LocalRepo/blob/main/githubimage.jpg)
 <h1 align="center">Hi 👋, I'm Sneha</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate developer</h3>
 
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
