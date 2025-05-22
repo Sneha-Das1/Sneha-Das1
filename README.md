@@ -1,8 +1,9 @@
 ![logo](https://github.com/Sneha-Das1/LocalRepo/blob/main/githubimage.jpg)
 <h1 align="center">Hi 👋, I'm Sneha</h1>
 <h3 align="center">A passionate developer</h3>
-[Live](https://portfolio-website-sneha.netlify.app/)
-
+<p align="center">
+  <a href="https://portfolio-website-sneha.netlify.app/">Live</a>
+</p>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
