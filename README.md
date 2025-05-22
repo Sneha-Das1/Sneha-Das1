@@ -1,6 +1,7 @@
 ![logo](https://github.com/Sneha-Das1/LocalRepo/blob/main/githubimage.jpg)
 <h1 align="center">Hi 👋, I'm Sneha</h1>
 <h3 align="center">A passionate developer</h3>
+[Live](https://portfolio-website-sneha.netlify.app/)
 
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
@@ -12,7 +13,7 @@
 
 - 🌱 I’m currently learning **Data structure and Algorithms**
 
-- ⚡ Fun fact **I love cats 🐈 and love cooking .I am from Nepal studying in india**
+- ⚡ Fun fact **I love cats 🐈 and love cooking .I am from Nepal studying in India**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
