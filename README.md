@@ -1,5 +1,5 @@
 
-![logo](https://github.com/Sneha-Das1/LocalRepo/blob/main/githubimage.jpg)
+![logo](https://github.com/Sneha-Das1/Sneha-Das1/blob/main/githubimage.jpg)
 <h1 align="center">Hi 👋, I'm Sneha</h1>
 <h3 align="center">A passionate developer</h3>
 
