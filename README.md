@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sneha</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 🌐 Portfolio Website: [Live](https://portfolio-website-sneha.netlify.app/)
+- 🌐 Portfolio Website: [Live](https://sneha-portfolio-website.netlify.app/)
 - 🔭 I’m currently working on **my web development projects**
 - 🌱 I’m currently learning **Data structure and Algorithms**
 - ⚡ Fun fact **I love cats 🐈 and love cooking .I am from Nepal studying in India**
